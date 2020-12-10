@@ -10,7 +10,7 @@ This repository is the official implementation of [Distribution Based MIL Poolin
 * 'attention'
 * 'distribution'
 
-> We also formulated 5 different MIL tasks on a real world lymph node metastases dataset, which is provided inside 'dataset' folder:
+> We also formulated 5 different MIL tasks on a real world lymph node metastases dataset:
 1. Positive vs negative bag classification
 2. Unique class count (ucc) classification
 3. Multi-class classification
@@ -67,7 +67,9 @@ $ test.sh
 ```
 > Note that this will test the models used in the paper. If you want to test your own models, go an update the script accordingly. Note that this script will run the statistical tests to compare the trained models as well.
 
-## Trained Models
+## Dataset and Trained Models
+
+The lymph node metastases dataset used in the paper and the trained models can be downloaded from [here](https://bit.ly/mil_pooling_filters).
 
 For each task, trained models used in the paper are provided inside "saved_models" folder in the task folder.
 
