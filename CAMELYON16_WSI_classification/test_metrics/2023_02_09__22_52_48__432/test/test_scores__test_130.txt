@@ -1,0 +1,11 @@
+# init_model_file: saved_models/model_weights__2023_02_09__22_52_48__432.pth
+# model_name: 2023_02_09__22_52_48__432
+# slide_list_filename: ../dataset_resnet50_10fold/test.txt
+# feature_dir: ../resnet50_features
+# num_instances: 1.0
+# num_features: 32
+# num_bags: 1
+# num_classes: 2
+# batch_size: 1
+# slide_id	bag_id	slide_label	prediction	score_negative	score_positive
+test_130	0	0	0	0.716	0.284
