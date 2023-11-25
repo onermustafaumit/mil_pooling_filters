@@ -1,6 +1,6 @@
 # Distribution based MIL pooling filters: experiments on a lymph node metastases dataset
 
-This repository is the official implementation of [Distribution based MIL pooling filters: experiments on a lymph node metastases dataset](https://paper_link). 
+This repository is the official implementation of [Distribution based MIL pooling filters: experiments on a lymph node metastases dataset](https://doi.org/10.1016/j.media.2023.102813). 
 
 
 There are different pooling filters used in multiple instance learning (MIL) models. This study analyzes performances of MIL models with different pooling filters in distinct tasks on [the CAMELYON16 lymph node metastases dataset](https://doi.org/10.1001/jama.2017.14585):
